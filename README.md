@@ -1,2 +1,2 @@
-# Project_3
+# Waste Autonomous Recycling Robotics
 - DL based autonomous plastic classification and waste management system
