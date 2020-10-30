@@ -2,10 +2,10 @@
 import pybullet as p
 import pybullet_data
 p.connect(p.GUI)
-#p.loadURDF("plane_transparent2.urdf")
 p.setAdditionalSearchPath(pybullet_data.getDataPath())
+#p.loadURDF("plane_transparent2.urdf")
 p.loadURDF("plane.urdf")
-dobot = p.loadURDF("dobot.urdf",useFixedBase=True)
+dobot = p.loadURDF("dobot/dobot.urdf",useFixedBase=True)
 p.setRealTimeSimulation(1)
 p.setPhysicsEngineParameter(numSolverIterations=300)
 p.setPhysicsEngineParameter(numSubSteps=10)
@@ -52,3 +52,7 @@ while (1):
 	linkOrn = ls[1]
 	eul = p.getEulerFromQuaternion(linkOrn)
 	#print(eul)
+	
+	
+	
+	
