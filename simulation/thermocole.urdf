@@ -1,0 +1,25 @@
+<robot name = "planar_robo_arm">
+    
+  <material name="blue">
+    <color rgba="0 0 0.8 1"/>
+  </material>
+  <material name="black">
+    <color rgba="0 0 0 1"/>
+  </material>
+  <material name="white">
+    <color rgba="1 1 1 1"/>
+  </material>
+
+
+ <link name ="link_1">
+    <visual>
+      <geometry>
+        <box size="1 0.001 0.7"/>
+      </geometry>
+      <origin rpy ="0 0 1.57" xyz ="0.4 0 0"/>
+      <material name ="white"/>
+    </visual>
+ </link>
+       
+
+</robot>
