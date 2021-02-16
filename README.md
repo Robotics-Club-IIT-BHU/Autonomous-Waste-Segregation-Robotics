@@ -16,7 +16,7 @@ Although still a major portion of the population relies on manual labour at work
   <tr>
     <td align="center"><a href="https://github.com/AntaraB1005"><img src="https://avatars.githubusercontent.com/u/71094731?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Antara Banerjee</b></sub></a><br /></a></td>
      <td align="center"><a href="https://github.com/AtuL-KumaR-00"><img src="https://avatars.githubusercontent.com/u/64649440?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Atul Kumar</b></sub></a><br /></a></td>
-      <td align="center"><a href="https://github.com/aditiagrawal123"><br /><sub><b>Aditi Agrawal</b></sub></a><br /></a></td>
+      <td align="center"><a href="https://github.com/aditiagrawal123"><img src="https://avatars.githubusercontent.com/u/64923751?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Aditi Agrawal</b></sub></a><br /></a></td>
     </tr>
 </table>
 
