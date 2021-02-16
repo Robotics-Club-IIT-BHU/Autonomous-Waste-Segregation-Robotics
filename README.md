@@ -7,5 +7,6 @@ Although still a major portion of the population relies on manual labour at work
 # PROJECT DEFINITION
 - DL based autonomous plastic classification and waste management system
 # OBJECTIVES
-# METHODOLOGY
 # OUTCOMES
+# MAKERS OF THE REPOSITORY
+# MENTORS
