@@ -9,4 +9,18 @@ Although still a major portion of the population relies on manual labour at work
 # OBJECTIVES
 # OUTCOMES
 # MAKERS OF THE REPOSITORY
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AntaraB1005"><br /><sub><b>Antara Banerjee</b></sub></a><br /></a></td>
+    </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 # MENTORS
