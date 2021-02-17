@@ -10,6 +10,13 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 
 
 # APPROACH
+We have created 4 groups for plastic classification using the vision model and chosen 4 plastic objects belonging to each of the respective groups. The respective groups and plastic objects are:
+1)HDPE and PVC : Pipe
+2)LDPE and HDPE: Plastic Toys
+3)LDPE , HDPE and PET : Plastic Bottles
+4)POLYSTYRENE : Thermocol Sheets
+
+The vision model predicts results both on real-world objects and simulation objects. We aim to successfully classify pictures of these plastic objects both in real-world and simulation environment into their corresponding plastic-type categories.
 # INSTALLATION
 # RESULTS
 # TEAM
