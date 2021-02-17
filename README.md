@@ -8,7 +8,7 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 - DL based autonomous plastic classification and waste management system
 # OBJECTIVES
 # OUTCOMES
-# MAKERS OF THE REPOSITORY
+# TEAM MEMBERS
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
