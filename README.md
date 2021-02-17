@@ -4,7 +4,7 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 * [Approach](#APPROACH)
 * [Installation](#INSTALLATION)
 * [Results](#RESULTS)
-* [Team](#TEAM MEMBERS)
+* [Team](#TEAM)
 
 
 
@@ -12,7 +12,7 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 - DL based autonomous plastic classification and waste management system
 # INSTALLATION
 # RESULTS
-# TEAM MEMBERS
+# TEAM
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
