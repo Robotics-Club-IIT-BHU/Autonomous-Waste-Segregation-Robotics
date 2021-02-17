@@ -10,7 +10,6 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 
 
 # APPROACH
-- DL based autonomous plastic classification and waste management system
 # INSTALLATION
 # RESULTS
 # TEAM
