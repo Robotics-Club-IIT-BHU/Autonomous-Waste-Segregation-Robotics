@@ -1,6 +1,6 @@
 # Autonomous Waste Segregation Robotics
 # INTRODUCTION
-Although still a major portion of the population relies on manual labour at work in dump yards and landfills for manual sorting of waste into recyclable waste or not it cannot be denied that it poses a great risk to the worker’s health. For this reason and for a much smoother and efficient handling and sorting of waste materials many countries have come up with Autonomous solutions with Artificial Intelligence and Robotics to sort and segregate recyclable waste items.
+Taking inspiration from the existing autonomous solutions in the waste management sector we have created a vision system to segregate 5 types of plastic wastes - HDPE, LDPE, PET, PVC, and Polystyrene for different recycling purposes. We have used Pybullet, a Real-Time Physics Simulator to implement a KUKA LBR iiwa robotic arm for picking and sorting plastic wastes in simulation. Simulation and real-world results show that the vision system can classify different plastic wastes. Segregation of different plastic wastes is important since each plastic type has its unique use after recycling. This project has been done under the **Robotics Research Group(RoboReg)** at the **Indian Institute of Technology(BHU) Varanasi.**
 
 
 
