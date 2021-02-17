@@ -5,6 +5,7 @@ Taking inspiration from the existing autonomous solutions in the waste managemen
 * [Installation](#INSTALLATION)
 * [Results](#RESULTS)
 * [Team](#TEAM)
+* [Mentors](#MENTORS)
 
 
 
