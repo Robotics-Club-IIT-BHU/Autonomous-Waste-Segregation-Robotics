@@ -26,3 +26,8 @@ Although still a major portion of the population relies on manual labour at work
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # MENTORS
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/lok-i"><img src="https://avatars.githubusercontent.com/u/54435909?s=460&u=29af076049dab351b2e43621e9a433919bf50fb1&v=4" width="100px;" alt=""/><br /><sub><b>Lokesh Krishna</b></sub></a><br /></a></td>
+    </tr>
+</table>
