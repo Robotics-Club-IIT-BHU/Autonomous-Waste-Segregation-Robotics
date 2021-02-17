@@ -21,6 +21,11 @@ We have created 4 groups for plastic classification using the vision model and c
 4)**POLYSTYRENE** : Thermocol Sheets
 
 The vision model predicts results both on real-world objects and simulation objects. We aim to successfully classify pictures of these plastic objects both in real-world and simulation environment into their corresponding plastic-type categories.
+
+**THE VISION MODEL**-The vision system classifies given plastic waste image into one of the 4 categories based on the plastic type it is likely to be made of. Transfer Learning VGG-16 model with Deep Convolution Neural Network has been used to have faster and more accurate results.
+
+**KUKA LBR iiwa robotic arm**-The robotic arm used is a modified Kuka arm ( KUKA LBR iiwa robotic arm) where a different gripper has been chosen.
+The environment consists of four platforms labeled polystyrene, LDPE or HDPE, HDPE or PVC, HDPE or PET or LDPE placed equally spaced at four corners and with the robotic arm placed at the center. The waste material(object) which is to be classified, is simulated at a certain area.
 # INSTALLATION
 # RESULTS
 # TEAM
