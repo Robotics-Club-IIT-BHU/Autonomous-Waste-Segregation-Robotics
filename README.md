@@ -27,7 +27,7 @@ The vision model predicts results both on real-world objects and simulation obje
 The environment consists of four platforms labeled polystyrene, LDPE or HDPE, HDPE or PVC, HDPE or PET or LDPE placed equally spaced at four corners and with the robotic arm placed at the center. The waste material(object) which is to be classified, is simulated at a certain area.
 # RESULTS
 **Vision Model Predictions**
-<div align="center"><img src="Results/pipe.png" width="20%"/>
+<div align="center"><img src="Results/pipe.png" width="20%"/></div>
 
 # TEAM
 <table>
