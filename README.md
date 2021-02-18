@@ -26,7 +26,8 @@ The vision model predicts results both on real-world objects and simulation obje
 **KUKA LBR iiwa robotic arm**-The robotic arm used is a modified Kuka arm ( KUKA LBR iiwa robotic arm) where a different gripper has been chosen.
 The environment consists of four platforms labeled polystyrene, LDPE or HDPE, HDPE or PVC, HDPE or PET or LDPE placed equally spaced at four corners and with the robotic arm placed at the center. The waste material(object) which is to be classified, is simulated at a certain area.
 # RESULTS
-
+**Vision Model Predictions**
+<div align="center"><img src="Results/pipe.png" width="80%"/>
 # TEAM
 <table>
   <tr>
