@@ -29,6 +29,7 @@ The environment consists of four platforms labeled polystyrene, LDPE or HDPE, HD
 **Vision Model Predictions**
 <div align="center"><img src="Results/pipe.png" width="20%"/><img src="Results/pipeS.jpg" width="20%"/><br/><img src="Results/Car.jpg" width="20%"/><img src="Results/carS.jpg" width="20%"/><br/><img src="Results/bottle.jpg" width="20%"/><img src="Results/bottleS.jpg" width="20%"/><br/><img src="Results/thermocol.jpg" width="20%"/><img src="Results/thermocolS.png" width="20%"/>
 </div>
+
 **KUKA LBR iiwa robotic arm movement**
 
 <div align="center"><img src="Results/kuka arm 3.png" width="20%"/><img src="Results/kuka arm 2.png" width="20%"/><img src="Results/kuka arm 1.png" width="20%"/></div>
