@@ -28,6 +28,7 @@ The environment consists of four platforms labeled polystyrene, LDPE or HDPE, HD
 # RESULTS
 **Vision Model Predictions**
 <div align="center"><img src="Results/pipe.png" width="20%"/>
+
 # TEAM
 <table>
   <tr>
